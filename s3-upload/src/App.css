@@ -1,25 +1,8 @@
-/* .App {
+.App {
   text-align: center;
-} */
-.Cam button {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  outline: 0;
-  background-color: black;
-  border: 0;
-  margin-left: 500px;
-  margin-right: 500px;
-  padding: 20px 50px 20px 50px;
-  color: white;
-  border-radius: 10px;
-  font-size: 30px;
-  width: 40%;
-  cursor: pointer;
-  transition-duration: 0.25s;
 }
 
-/* .App-logo {
+.App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -52,4 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-} */
+}
