@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import UploadImageToS3WithNativeSdk from "./UploadImageToS3WithNativeSdk";
+import UploadImageToS3WithReactS3 from "./UploadImageToS3WithReactS3";
 
 <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1197.0.min.js"></script>;
 
@@ -22,7 +22,7 @@ function App() {
     //     </a>
     //   </header>
     // </div> */}
-      <UploadImageToS3WithNativeSdk />
+      <UploadImageToS3WithReactS3 />
     </div>
   );
 }
